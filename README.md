@@ -21,19 +21,13 @@ NovaVerge simulates a modern, professional tech consulting website. It includes 
 
 ## 🖼️ Preview Screenshots
 
-> Add screenshots here once deployed  
-Example:
+### 📸 Screenshots
 
-- 🏠 **Landing Page**
-   ![Landing page](Screenshots/Landing_page.png)
-
-  
-- 🛠️ **Services Page**
-   ![Services page](Screenshots/Services_page.png)
-
-  
-- 📖 **About Us Page**
-   ![Landing page](Screenshots/About_us.png)
+| Page | Preview |
+|------|---------|
+| 🏠 **Landing Page** | ![Landing page](Screenshots/Landing_page.png) |
+| 🛠️ **Services Page** | ![Services page](Screenshots/Services_page.png) |
+| 📖 **About Us Page** | ![About us page](Screenshots/About_us.png) |
 
 ---
 
