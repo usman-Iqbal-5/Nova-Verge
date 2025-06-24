@@ -4,8 +4,7 @@
 
 > 🚧 **This project is still under development** ⏳
 
-> 🧪 This is a demonstration project built to showcase web development skills. The business and services are only part of demonstrative scenario developed for portfolio purposes. They are not a real service.
-
+> 🧪 This is a demonstration project built to showcase web development skills. The business and services represented are part of a demonstrative scenario created for portfolio purposes. **They are not real services.**
 
 ---
 
