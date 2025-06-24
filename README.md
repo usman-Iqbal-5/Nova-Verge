@@ -2,7 +2,9 @@
 
 **NovaVerge** is a **concept website** created as a professional front-end development project using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**. It represents a clean, modern consulting firm focused on eco-friendly operations and smart technologies.
 
-> 🧪 This is a demonstration project built to showcase web development skills. The business and services are part of a fictional scenario developed for portfolio purposes.
+> 🚧 **This project is still under development** ⏳
+
+> 🧪 This is a demonstration project built to showcase web development skills. The business and services are only part of demonstrative scenario developed for portfolio purposes. They are not a real service.
 
 
 ---
