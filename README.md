@@ -1,8 +1,9 @@
 # 🌿 NovaVerge — Sustainable Tech Consulting (Demo Website)
 
-**NovaVerge** is a fictional business website built to showcase my front-end development skills using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**. It represents a consulting company helping businesses transition to eco-friendly operations through smart technology (IoT, AI, analytics — conceptually only).
+**NovaVerge** is a **concept website** created as a professional front-end development project using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**. It represents a clean, modern consulting firm focused on eco-friendly operations and smart technologies.
 
-> ⚠️ This project is for demonstration purposes only. NovaVerge is a mock business created as part of a personal portfolio.
+> 🧪 This is a demonstration project built to showcase web development skills. The business and services are part of a fictional scenario developed for portfolio purposes.
+
 
 ---
 
